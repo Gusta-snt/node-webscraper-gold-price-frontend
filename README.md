@@ -17,6 +17,10 @@ To start the application, you just need to open the index.html file.
 
 When you open the application in your browser, it will automatically make a request to the backend API to retrieve the current value of the gold. This value will be displayed in a purple color in the center of the website.
 
+## Use it online.
+You can watch this project running at this link:
+  https://node-webscraper-gold-price-frontend.vercel.app/
+
 ## Author
 <img src="https://i.ibb.co/zmSvf43/Gustavo.png" width="200px">
 Maded with love by Gusta ❤️. My social networks:<br/><br/>
