@@ -1,6 +1,6 @@
 const price = document.querySelector(".price");
 const phrase = document.querySelector(".phrase");
-const url = "https://node-webscraper-gold-price-api.herokuapp.com/ouro";
+const url = "https://goldwebscraper.onrender.com/ouro";
 
 fetch(url)
   .then((response) => response.json())
